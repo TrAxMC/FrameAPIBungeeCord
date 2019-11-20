@@ -1,0 +1,3 @@
+name: Frameapibungeecord
+version: ${project.version}
+main: de.framedev.frameapibungeecord.main.FrameAPIBungee
